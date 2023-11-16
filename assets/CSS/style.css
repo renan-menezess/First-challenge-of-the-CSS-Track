@@ -65,13 +65,13 @@
 
 .banner-content p {
     color: #FFF;
-    text-align: justify;
+    text-align: center;
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    width: 497px;
+    width: 606px;
 }
 
 button {
@@ -177,7 +177,7 @@ span {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    width: 760px;
+    width: 790px;
 }
 
 #transform-world {
