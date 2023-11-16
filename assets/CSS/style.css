@@ -188,6 +188,8 @@ span {
     width: 100%;
     height: 350px;
     object-fit: cover;
+    border-top: 1px solid #33A8DB;
+    border-bottom: 1px solid #33A8DB;
 }
 
 #transform-world p{
@@ -208,6 +210,16 @@ span {
 
 #professional-challenges {
     display: flex;
+    flex-direction: column;
+    border-top: 1px solid #33A8DB;
+    gap: 35px;
+    align-items: center;
+    padding-bottom: 5rem;
+}
+
+#professional-challenges img {
+    width: 659px;
+    height: 429px;
 }
 
 #professional-challenges h2{
@@ -219,6 +231,9 @@ span {
     font-weight: 700;
     line-height: normal;
     letter-spacing: 6.08px;
+    padding-top: 5rem;
+    text-transform: uppercase;
+    width: 850px;
 }
 
 #professional-challenges p {
@@ -229,6 +244,7 @@ span {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    width: 792px;
 }
 
 /*---------------------*/
