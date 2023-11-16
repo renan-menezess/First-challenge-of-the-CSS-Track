@@ -1,6 +1,6 @@
 /*FONTES*/
 
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;900&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700;900&family=Roboto&display=swap');
 
 
 /*---------------------*/
@@ -35,7 +35,7 @@
 /*BANNER*/
 
 .banner {
-    padding-top: 4rem;
+    padding-top: 2.3rem;
     object-fit: scale-down;
     background-image: url('/assets/images/banner.png');
 }
@@ -163,7 +163,7 @@ span {
     font-family: 'Raleway', sans-serif;
     font-size: 32px;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     line-height: normal;
     letter-spacing: 6.08px;
     text-transform: uppercase;
