@@ -255,3 +255,22 @@ footer {
     border-top: 1px solid #33A8DB;
     background: linear-gradient(180deg, rgba(51, 168, 219, 0.00) 0%, rgba(51, 168, 219, 0.20) 99.99%, rgba(51, 168, 219, 0.20) 100%);
 }
+
+footer p {
+    color: #FFF;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+footer a {
+    color: #33A8DB;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
