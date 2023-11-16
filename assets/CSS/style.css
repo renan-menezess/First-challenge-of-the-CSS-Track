@@ -182,11 +182,11 @@ span {
 
 #transform-world {
     background-image: url('/assets/images/woman-code.png');
-    background-size: 90%;
-    background-position: center -170px;
+    background-size: 100%;
+    background-position: center -230px;
     border-top: 1px solid #33A8DB;
     border-bottom: 1px solid #33A8DB;
-    height: 250px;
+    height: 350px;
 }
 
 #transform-world p{
@@ -199,7 +199,7 @@ span {
     line-height: normal;
     text-transform: lowercase;
     text-align: left;
-    padding-top: 4.5rem;
+    padding-top: 7rem;
     padding-left: 11rem;
     width: 283px;
     line-height: 1.4;
