@@ -15,15 +15,15 @@
 /*HEADER*/
 
 header {
-    background: linear-gradient(0deg, rgba(51, 168, 219, 0.00) 0%, rgba(51, 168, 219, 0.20) 99.99%, rgba(51, 168, 219, 0.20) 100%);
+    
 }
 
 /*IMAGENS*/
 
 .logo {
     width: 248px;
-    height: 228px;
-    border-radius: 600px;
+    height: 248px;
+    border-radius: 800px;
     background: rgba(0, 0, 0, 0.20);
 }
 
@@ -48,8 +48,8 @@ header {
     flex-direction: column;
     align-items: center;
     gap: 16px;
-    background: linear-gradient(180deg, rgba(51, 168, 219, 0.00) 0%, rgba(51, 168, 219, 0.20) 99.99%, rgba(51, 168, 219, 0.20) 100%);
     border-bottom: 1px solid #33A8DB;
+    background: linear-gradient(180deg, rgba(51, 168, 219, 0.00) 0%, rgba(51, 168, 219, 0.15) 40%, rgba(51, 168, 219, 0.00) 100%);
 }
 
 .banner-content h1 {
@@ -94,7 +94,7 @@ button {
     gap: 31px;
     border: 2px solid #3BA1CD;
     background-color: transparent;
-    margin-bottom: 3rem;
+    margin-bottom: 5.5rem;
 }
 
 /*---------------------*/
