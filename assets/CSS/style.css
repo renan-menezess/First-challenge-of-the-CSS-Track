@@ -182,11 +182,11 @@ span {
 
 #transform-world {
     background-image: url('/assets/images/woman-code.png');
-    width: 100%;
-    height: 600px;
-    object-fit: cover;
+    background-size: 90%;
+    background-position: center -170px;
     border-top: 1px solid #33A8DB;
     border-bottom: 1px solid #33A8DB;
+    height: 240px;
 }
 
 #transform-world p{
@@ -202,7 +202,6 @@ span {
     padding-left: 10rem;
     width: 283px;
     line-height: 1.4;
-    padding-top: 14rem;
 }
 
 #professional-challenges {
