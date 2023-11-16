@@ -14,9 +14,6 @@
 
 /*HEADER*/
 
-header {
-    
-}
 
 /*IMAGENS*/
 
@@ -186,7 +183,7 @@ span {
 #transform-world {
     background-image: url('/assets/images/woman-code.png');
     width: 100%;
-    height: 350px;
+    height: 600px;
     object-fit: cover;
     border-top: 1px solid #33A8DB;
     border-bottom: 1px solid #33A8DB;
@@ -196,16 +193,16 @@ span {
     color: #FFF;
     text-shadow: 3px 2px 0px #33A8DB;
     font-family: 'Raleway', sans-serif;
-    font-size: 30px;
+    font-size: 40px;
     font-style: normal;
     font-weight: 900;
     line-height: normal;
     text-transform: lowercase;
     text-align: left;
-    padding-left: 5rem;
-    width: 183px;
+    padding-left: 10rem;
+    width: 283px;
     line-height: 1.4;
-    padding-top: 7rem;
+    padding-top: 14rem;
 }
 
 #professional-challenges {
