@@ -28,7 +28,7 @@ header {
 }
 
 .dio-logo {
-    align-items: center;
+    padding-top: 3rem;
 }
 
 
@@ -254,6 +254,11 @@ span {
 footer {
     border-top: 1px solid #33A8DB;
     background: linear-gradient(180deg, rgba(51, 168, 219, 0.00) 0%, rgba(51, 168, 219, 0.20) 99.99%, rgba(51, 168, 219, 0.20) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    padding-bottom: 3rem;
 }
 
 footer p {
@@ -273,4 +278,5 @@ footer a {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    text-decoration: none;
 }
