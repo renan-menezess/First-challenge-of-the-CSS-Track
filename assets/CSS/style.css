@@ -38,7 +38,7 @@ header {
 /*BANNER*/
 
 .banner {
-    padding-top: 9rem;
+    padding-top: 4rem;
     object-fit: scale-down;
     background-image: url('/assets/images/banner.png');
 }
@@ -88,8 +88,7 @@ button {
     line-height: normal;
     letter-spacing: 3.36px;
     display: flex;
-    width: 326px;
-    padding: 19px 91px;
+    padding: 19px 51px;
     justify-content: center;
     align-items: center;
     gap: 31px;
@@ -121,6 +120,13 @@ main {
     justify-content: center;
     align-items: center;
     gap: 24px;
+    padding-bottom: 7rem;
+    color: #FFF;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
 
 .module {
@@ -137,8 +143,17 @@ main {
     box-shadow: -2px 6px 4px 0px rgba(0, 0, 0, 0.40) inset;
 }
 
+span {
+    color: #33A8DB;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
 #course-content {
-    display: inline-flex;
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -146,7 +161,7 @@ main {
 }
 
 #course-content h2 {
-    padding-top: 2rem;
+    padding-top: 7rem;
     color: #33A8DB;
     font-family: 'Raleway', sans-serif;
     font-size: 32px;
@@ -165,6 +180,7 @@ main {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    width: 760px;
 }
 
 #transform-world {
